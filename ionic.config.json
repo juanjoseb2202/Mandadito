@@ -1,0 +1,8 @@
+{
+  "name": "Mandadito",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "f135017a"
+}
